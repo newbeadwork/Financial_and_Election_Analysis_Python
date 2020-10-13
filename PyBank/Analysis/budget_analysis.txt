@@ -1,0 +1,6 @@
+Financial Analysis
+Total month: 86.
+Total profit: $38382578.0.
+Averenge change in Profit/losses: $-2315.1176470588234.
+Greatest increase in Profits: Feb-2012, $1926159.0.
+Greatest decrease in Profits: Sep-2013, $-2196167.0.
